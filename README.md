@@ -52,7 +52,7 @@ python src/auto_fill_gui.py
 
 ## 示例
 
-查看 `examples` 目录获取示例文件。
+查看 `examples.md` 文件获取示例文件。
 
 ## 贡献指南
 
